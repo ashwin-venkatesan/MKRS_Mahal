@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MKRS Mahal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">M.K.R.S. MAHAL</string>
+    <string name="nav_header_subtitle">VERSION 0.0.1</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_add_booking">Add Booking</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="home_title">M.K.R.S. Mahal</string>
+</resources>
